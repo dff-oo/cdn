@@ -36,6 +36,14 @@
   },
   {
     "file": "FieldMap_Hex.g1t.dz",
+    "index": 9,
+    "over": 10,
+    "name": "gate",
+    "width": 128,
+    "height": 99
+  },
+  {
+    "file": "FieldMap_Hex.g1t.dz",
     "index": 33,
     "name": "start",
     "width": 66,
